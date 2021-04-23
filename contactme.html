@@ -29,12 +29,12 @@
     <main>
         <div id="contact">
             <p style="text-align: center;"><span style="font-size: 30px; font-weight: bold;">Contact Me</span><br/></p>
-            <form name="fromwebsite" class="form" method="POST" data-netlify="true">
+            <form class="form" method="POST" data-netlify="true">
                 <input type="text" class="field" name="name" placeholder="name...">
                 <input type="text" class="field" name="email" placeholder="your email...">
-                <input type="hidden" name="_next" value="">
                 <textarea name="message" class="field" placeholder="your message..." cols="30" rows="10"></textarea>
-                <a href="thankyou.html"><input class="submitb" type="submit" value="Submit"></a>
+                <div data-netlify-recaptcha="true"></div>
+                <input class="submitb" type="submit" value="Submit">
             </form>
             <div class="links">
                 <div class="github"><a href="https://github.com/21312Julio"><img src="images/GitHub.png" alt="GitHub"></a></div>
