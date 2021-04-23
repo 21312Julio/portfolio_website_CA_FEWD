@@ -26,6 +26,7 @@ textarea {
     margin-left: 250px;
     margin-right: 250px;
     font-weight: bold;
+    border: none;
 }
 
 #contact a {
