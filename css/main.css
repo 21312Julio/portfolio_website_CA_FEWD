@@ -52,9 +52,8 @@ a:hover {
 .nav-bar ul {
     text-align: center;
     list-style: none;
-    padding-left: 0;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
     background: linear-gradient(125deg,#2c3e50, #27ae60,#2980b9,#e74c3c,#8e44ad);
     animation: gradient 5s linear infinite;
 }
@@ -71,7 +70,7 @@ a:hover {
 }
 
 .nav-bar li {
-    display: inline-block;
+    display: inline-block !important;
 }
 
 .nav-bar li:not(:last-child) {

@@ -12,6 +12,8 @@
 
 .field {
     margin-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
 }
 
 textarea {
@@ -31,6 +33,10 @@ textarea {
     margin-right: 250px;
     font-weight: bold;
     border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 #contact a {
@@ -53,7 +59,7 @@ textarea {
     display: flex;
     flex-direction: row;
     width: 700px;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     justify-content: center;
 }
 
