@@ -18,6 +18,10 @@ textarea {
     height: 150px;
 }
 
+.captcha {
+    justify-content: center;
+}
+
 .submitb {
     margin-top: 20px;
     margin-bottom: 40px;
