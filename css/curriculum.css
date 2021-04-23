@@ -1,3 +1,4 @@
+/* Div surrounding resume content */
 #resume {
     padding-top: 320px;
     padding-left: 100px;
@@ -7,6 +8,7 @@ p {
     padding-top: none;
 }
 
+/* Positioning the skills image */
 .icons {
     width: 700px;
     position: relative;
@@ -19,6 +21,7 @@ p {
     display: block;
 }
 
+/* Positioning the overlay text */
 .image-overlay {
     position: absolute;
     top: 0;
@@ -35,6 +38,7 @@ p {
     transition: opacity 0.25s;
 }
 
+/* Text configuration so it comes up in animation */
 .image-overlay > * {
     transform: translateY(20px);
     transition: transform 0.25s;
@@ -52,12 +56,14 @@ p {
     backdrop-filter: blur(5px);
 }
 
+/* Download class positioning */
 .download {
     padding-top: 50px;
     width: 700px;
     padding-bottom: 50px;
 }
 
+/* Download button customize */
 .download a{
     background: linear-gradient(to top, #008aff, #00ffe7);
     animation: animate 5s linear infinite;
@@ -71,10 +77,12 @@ p {
     border-radius: 2px;
 }
 
+/* Change text color hovering over */
 .download a:hover {
     color: #020202;
 }
 
+/* Gradient color animation */
 @keyframes animate 
 {
     0%,100%

@@ -1,8 +1,10 @@
+/* Setting the background for the body content */
 body {
     background-color: #020202;
     font-family: 'Courier New', Courier, monospace !important; 
 }
 
+/* Positioning the portrait edit */
 .background-edit {
     content:url("../images/bgedit.jpg");
     position: fixed;
@@ -11,12 +13,14 @@ body {
     left: 830px;
 }
 
+/* Paragraph text customize */
 p {
     color: #D9D9D9;
     width: 700px;
     height: auto;
 }
 
+/* Link text customize */
 a {
     color: #020202;
     font-size: 20px;
@@ -28,6 +32,7 @@ a:hover {
     color: #D9D9D9;;
 }
 
+/* Positioning navigation elements (image and navbar) */
 .navigation {
     position: relative;
     width: auto;
@@ -58,6 +63,15 @@ a:hover {
     animation: gradient 5s linear infinite;
 }
 
+.nav-bar li {
+    display: inline-block !important;
+}
+
+.nav-bar li:not(:last-child) {
+    padding-right: 70px;
+}
+
+/* Gradient color animation */
 @keyframes gradient {
     0%,100%
     {
@@ -69,13 +83,7 @@ a:hover {
     }
 }
 
-.nav-bar li {
-    display: inline-block !important;
-}
 
-.nav-bar li:not(:last-child) {
-    padding-right: 70px;
-}
 
 
 

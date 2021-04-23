@@ -1,9 +1,10 @@
-
+/* Div surrounding the text elements and Spotify playlisy positioning */
 #info {
     padding-top: 320px;
     padding-left: 100px;
 }
 
+/* Spotify class, here I added the gradient padding */
 .spotify {
     padding-top: 10px;
     padding-left: 10px;
@@ -14,6 +15,7 @@
     animation: gradient 5s linear infinite;
 }
 
+/* Gradient animation */
 @keyframes gradient {
 0%,100%
 {

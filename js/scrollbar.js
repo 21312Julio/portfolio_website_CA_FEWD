@@ -1,3 +1,4 @@
+/* Change size during scroll */
 var progress = document.getElementById('progressbar');
 var totalHeigth = document.body.scrollHeight - window.innerHeight;
 window.onscroll = function() {
