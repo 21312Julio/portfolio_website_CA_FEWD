@@ -64,11 +64,34 @@ the form tag.
 * The elements weren't being displayed properly on the page at the position they were supposed to at certain moments, since I decided to go
 with a different approach to their organization having the nav-bar below the header logo for example.
 
-### Sketches
+### Low-Fidelity Prototype
+#### AboutMe Page
 
-* https://www.figma.com/file/5An5bxTf4na89ZwWyoKuha/Portfolio-Website?node-id=0%3A1 (Interactive High-Fidelity Prototype)
+![](/prototype/aboutmelowfidelity.PNG)
 
-#### Low-Fidelity Prototype
+#### Curriculum Page
 
-![LowFidelityAboutMe](/prototype/aboutmelowfidelity.png)
+![](/prototype/curriculumlowfidelity.PNG)
 
+#### ContactMe Page
+
+![](/prototype/contactmelowfidelity.PNG)
+
+### High-Fidelity Prototype
+
+* https://www.figma.com/file/5An5bxTf4na89ZwWyoKuha/Portfolio-Website?node-id=0%3A1
+
+#### AboutMe Page
+
+![](/prototype/About Me Prototype 1.PNG)
+![](/prototype/About Me Prototype 2.PNG)
+
+#### Curriculum Page
+
+![](/prototype/CV Prototype 1.PNG)
+![](/prototype/CV Prototype 2.PNG)
+
+#### ContactMe Page
+
+![](/prototype/Contact Me Prototype 1.PNG)
+![](/prototype/Contact Me Prototype 2.PNG)
