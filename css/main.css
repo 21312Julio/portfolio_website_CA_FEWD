@@ -40,7 +40,6 @@ a:hover {
 .navigation > * {
     position: absolute;
     left: 100px;
-    right: 100px;
     top: 40px;
     width: 700px;
     text-align: center;
