@@ -114,14 +114,14 @@ Common interests include gaming and binging movies.
 #### Scrollbar customize
 * Online Tutorials (2020). 'Creative Page Scroll Progress Bar | CSS3 & Vanilla Javascript'. Available at: https://www.youtube.com/watch?v=qYFkQa0Bbq0
 
-### Creating contact form with Netlify
+#### Creating contact form with Netlify
 * Traversy Media (2019). 'Simple Contact Form Submission With Netlify'. Available at: https://www.youtube.com/watch?v=6ElQ689HRcY
 
-### Creating download button for CV
+#### Creating download button for CV
 * W3 Schools. 'HTML <a> download Attribute'. Available at: https://www.w3schools.com/tags/att_a_download.asp
 
-### Changing cursor when hover over buttons
+#### Changing cursor when hover over buttons
 * Tutorial Republic. 'How to Change the Cursor into a Hand Pointer on Hover using CSS'. Available at: https://www.tutorialrepublic.com/faq/how-to-change-the-cursor-into-a-hand-pointer-on-hover-using-css.php
 
-### Embed Spotify playlist into HTML code
+#### Embed Spotify playlist into HTML code
 * Spotify. 'Embed'. Available at: https://developer.spotify.com/documentation/widgets/generate/embed/
