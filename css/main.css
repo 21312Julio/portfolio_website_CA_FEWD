@@ -1,6 +1,7 @@
 body {
     background-color: #020202;
     font-family: 'Courier New', Courier, monospace !important; 
+    right: 100px;
 }
 
 .background-edit {
