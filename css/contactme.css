@@ -1,0 +1,57 @@
+
+#contact {
+    padding-top: 320px;
+    padding-left: 100px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 700px; 
+}
+
+.field {
+    margin-bottom: 15px;
+}
+
+textarea {
+    height: 150px;
+}
+
+.submitb {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background: linear-gradient(to top, #008aff, #00ffe7);
+    animation: animate 5s linear infinite;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-weight: bold;
+}
+
+#contact a {
+    text-align: center;
+}
+
+@keyframes animate 
+{
+    0%,100%
+    {
+        filter: hue-rotate(0deg);
+    }
+    50%
+    {
+        filter: hue-rotate(360deg);
+    }
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    padding-bottom: 30px;
+    justify-content: center;
+}
+
+.links > *:not(:last-child) {
+    padding-right: 30px;
+}

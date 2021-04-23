@@ -1,0 +1,88 @@
+#resume {
+    padding-top: 320px;
+    padding-left: 100px;
+}
+
+p {
+    padding-top: none;
+}
+
+.icons {
+    width: 700px;
+    position: relative;
+}
+
+.skillsimg{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+    display: block;
+}
+
+.image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.image-overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+.image-overlay:hover {
+    opacity: 1;
+}
+
+.image-overlay:hover > * {
+    transform: translateY(0);
+}
+
+.image-overlay--blur {
+    backdrop-filter: blur(5px);
+}
+
+.download {
+    padding-top: 50px;
+    width: 700px;
+    padding-bottom: 50px;
+}
+
+.download a{
+    background: linear-gradient(to top, #008aff, #00ffe7);
+    animation: animate 5s linear infinite;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto  ;
+    display: block;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.download a:hover {
+    color: #020202;
+}
+
+@keyframes animate 
+{
+    0%,100%
+    {
+        filter: hue-rotate(0deg);
+    }
+    50%
+    {
+        filter: hue-rotate(360deg);
+    }
+}
