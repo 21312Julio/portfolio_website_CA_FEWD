@@ -1,6 +1,7 @@
 # Portfolio Project - Front End Development Class DORSET COLLEGE
 
 Created by Julio Costa Beyeler 21312
+https://juliobeyeler.netlify.app/
 
 # Project Summary
 
@@ -80,18 +81,47 @@ with a different approach to their organization having the nav-bar below the hea
 ### High-Fidelity Prototype
 
 * https://www.figma.com/file/5An5bxTf4na89ZwWyoKuha/Portfolio-Website?node-id=0%3A1
+* Here I decided to completely changed as I made the prototype, the color scheme and structure, while keeping the same idea.
 
 #### AboutMe Page
 
-![](/prototype/About Me Prototype 1.PNG)
-![](/prototype/About Me Prototype 2.PNG)
+![](/prototype/aboutmeprototype1.PNG)
+![](/prototype/aboutmeprototype2.PNG)
 
 #### Curriculum Page
 
-![](/prototype/CV Prototype 1.PNG)
-![](/prototype/CV Prototype 2.PNG)
+![](/prototype/cvprototype1.PNG)
+![](/prototype/cvprototype2.PNG)
 
 #### ContactMe Page
 
-![](/prototype/Contact Me Prototype 1.PNG)
-![](/prototype/Contact Me Prototype 2.PNG)
+![](/prototype/contactmeprototype1.PNG)
+![](/prototype/contactmeprototype2.PNG)
+
+### User Testing
+
+I had 2 people to test my website. The first one is currently working in the software development field.
+The second one is pursuing a carreer in psychology and has a background in HR. Both are in their 30s and enjoy design as well. 
+Common interests include gaming and binging movies. 
+* Both didn't report any problems with the website navigation.
+* During low-fidelity prototype phase, I had decided to go with a more black & white palette, but the first user didn't feel comfortable with the lacking of colors in the website. So I changed to include the gradient that blended easily into the design and made it more impactful.
+* The first person also reported that they didn't feel like the font I used first matched the website, so I changed it from **Amatic** SC to **Courier Prime**. 
+* The second person reported an error in the contact me form, where the fields weren't required to have text in order to send a message, so I had to fix that.
+* Both reported problems opening the website in mobile applications. 
+
+### References
+
+#### Scrollbar customize
+* Online Tutorials (2020). 'Creative Page Scroll Progress Bar | CSS3 & Vanilla Javascript'. Available at: https://www.youtube.com/watch?v=qYFkQa0Bbq0
+
+#### Creating contact form with Netlify
+* Traversy Media (2019). 'Simple Contact Form Submission With Netlify'. Available at: https://www.youtube.com/watch?v=6ElQ689HRcY
+
+#### Creating download button for CV
+* W3 Schools. 'HTML <a> download Attribute'. Available at: https://www.w3schools.com/tags/att_a_download.asp
+
+#### Changing cursor when hover over buttons
+* Tutorial Republic. 'How to Change the Cursor into a Hand Pointer on Hover using CSS'. Available at: https://www.tutorialrepublic.com/faq/how-to-change-the-cursor-into-a-hand-pointer-on-hover-using-css.php
+
+#### Embed Spotify playlist into HTML code
+* Spotify. 'Embed'. Available at: https://developer.spotify.com/documentation/widgets/generate/embed/
