@@ -39,6 +39,10 @@ textarea {
     padding-bottom: 3px;
 }
 
+.submitb:hover {
+    cursor: pointer;
+}
+
 #contact a {
     text-align: center;
 }
