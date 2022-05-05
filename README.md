@@ -1,7 +1,7 @@
 # Portfolio Project - Front End Development Class DORSET COLLEGE
 
 Created by Julio Costa Beyeler 21312
-https://juliobeyeler.netlify.app/
+https://juliocbeyeler.netlify.app/
 
 # Project Summary
 
